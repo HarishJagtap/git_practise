@@ -5,3 +5,6 @@
 # Second commit from remote
 
 # New feature commit 1
+# New feature commit 2
+# New feature commit 3
+# New feature commit 4
