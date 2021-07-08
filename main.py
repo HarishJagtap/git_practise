@@ -10,8 +10,4 @@
 # New feature commit 4
 
 # Third commit from remote
-<<<<<<< HEAD
 # Fourth commit from local
-=======
-# Fourth commit from remote
->>>>>>> d6e72d5c39dcfad28930aae26feb2b9229d5f58a
