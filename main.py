@@ -13,7 +13,13 @@
 # Fourth commit from local
 # Fourth commit from local
 
-# 1+1=3
+# 1+1=2
 # 3+1=4
 # 4+1=5
 # 5+1=6
+
+# multiplication implemented
+# 1*2=2
+# 2*2=4
+# 4*2=8
+# 8*2=16
