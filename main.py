@@ -13,6 +13,5 @@
 # Fourth commit from local
 # Fourth commit from local
 
-# 1+1=2
-# 2+1=3
+# 1+1=3
 # 3+1=4
