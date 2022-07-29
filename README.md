@@ -2,3 +2,5 @@
 
 Updated readme
 Testing practise
+local add
+remote add
